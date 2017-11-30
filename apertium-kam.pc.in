@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-kam
+
+Name: apertium-kam
+Description: Finite-state morphological transducer and constraint grammar for Kamba 
+Version: @VERSION@
+

@@ -1,0 +1,4 @@
+
+      
+    hfst-strings2fst -S| hfst-compose-intersect '/Users/user/work/apertium/dicts/ling073-kam/.deps/kam.twol.hfst' | hfst-fst2strings
+  
